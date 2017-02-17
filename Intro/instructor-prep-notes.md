@@ -8,11 +8,11 @@ This class will be an intro to several tools to start coding, HTML and CSS. You 
 * Get to know everyone
 * Understand student's expectation
 * Set some expectations about the class
-* Teach them basis of HTML and CSS
+* Teach them basis of the Command Line, HTML and CSS
 
 ## Rough Timing:
 * 5 min: Who you are
-* 15 min: Icebreaking exercise
+* 15 min: Icebreaker exercise
 * 10 min: Welcome to the class and general overview
 * 10 min: Make sure all students are set up with Cloud 9 and GitHub
 * 30 min: Get to know the terminal and basic commands
@@ -27,8 +27,21 @@ This class will be an intro to several tools to start coding, HTML and CSS. You 
 * Make them comfortable asking many questions. Even stupid questions are welcome and you are happy to answer them.
 
 
+### Example of icebreaker games
 
-Break the ice with by making your students talk. Let them introduce themselves and tell you why they sign up for the class.
+Icebreaker games will be very useful for you because your students will be less shy to ask questions. If you don't know any icebreaker games you can check some [here](http://www.icebreakers.ws/large-group)
 
-Show them the website they are going to build by the end of the course
-[The project](http://p-school-blog.herokuapp.com)
+
+## Job Prep
+
+After, the icebreaker, show them the website they are going to build by the end of the course
+
+* [The project](http://p-school-blog.herokuapp.com)
+
+Students might not see how complicated it can be to code such a website, so feel free to tell them that thanks to this project, they will have a better understanding of front-end and back-end development.
+
+Make sure that you are familiar with Cloud 9. Sometimes this tool can be a little tricky or doesn't have the latest features of all programming languages. Students can also accidentally mess things up in their workspace and ask for your help, you need to be able to solve that quickly.
+
+ Make students write their first lines of code as soon as possible. Normally with Cloud 9 and Github, it should be enough to show them how to write headings, paragraphs etc. on a webpage.
+
+ This might seem trivial but show real websites that use what you are teaching them. It should be very easy with HTML and CSS. Students need to connect the dots with their work and understand how their engineering teams work.
