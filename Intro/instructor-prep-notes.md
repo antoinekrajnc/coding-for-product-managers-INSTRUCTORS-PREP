@@ -42,6 +42,6 @@ Students might not see how complicated it can be to code such a website, so feel
 
 Make sure that you are familiar with Cloud 9. Sometimes this tool can be a little tricky or doesn't have the latest features of all programming languages. Students can also accidentally mess things up in their workspace and ask for your help, you need to be able to solve that quickly.
 
- Make students write their first lines of code as soon as possible. Normally with Cloud 9 and Github, it should be enough to show them how to write headings, paragraphs etc. on a webpage.
+Make students write their first lines of code as soon as possible. Normally with Cloud 9 and Github, it should be enough to show them how to write headings, paragraphs etc. on a webpage.
 
- This might seem trivial but show real websites that use what you are teaching them. It should be very easy with HTML and CSS. Students need to connect the dots with their work and understand how their engineering teams work.
+This might seem trivial but show real websites that use what you are teaching them. It should be very easy with HTML and CSS. Students need to connect the dots with their work and understand how their engineering teams work.
