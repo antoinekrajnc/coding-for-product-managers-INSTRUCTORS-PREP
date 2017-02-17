@@ -12,14 +12,18 @@ This class will be an intro to several tools to start coding, HTML and CSS. You 
 
 ## Rough Timing:
 * 5 min: Who you are
-* 10 min: Icebreaking exercise
-NEED HELP ON THE TIMING
+* 15 min: Icebreaking exercise
+* 10 min: Welcome to the class and general overview
+* 10 min: Make sure all students are set up with Cloud 9 and GitHub
+* 30 min: Get to know the terminal and basic commands
+* 45 min: HTML
+* 45 min: CSS
 
 ## Other notes:
 
 * Insist on the fact that you might use Google to answer some questions or double check your code and that it's TOTALLY normal.
 * Students are current managers, they are used to "give orders" instead of receiving them. So don't forget to show how awesome you are when you introduce yourself.
-* Don't forget the break. Students need at least one break during each class otherwise they will follow less.
+* Include a break in your class. Students need at least one break during each class otherwise they will follow less.
 * Make them comfortable asking many questions. Even stupid questions are welcome and you are happy to answer them.
 
 
