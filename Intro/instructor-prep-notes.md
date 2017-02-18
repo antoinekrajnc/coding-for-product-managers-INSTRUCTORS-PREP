@@ -8,16 +8,18 @@ This class will be an intro to several tools to start coding, HTML and CSS. You 
 * Get to know everyone
 * Understand student's expectation
 * Set some expectations about the class
-* Teach them basis of the Command Line, HTML and CSS
+* Teach them basis of the Command Line, HTML
 
 ## Rough Timing:
 * 5 min: Who you are
 * 15 min: Icebreaker exercise
 * 10 min: Welcome to the class and general overview
 * 10 min: Make sure all students are set up with Cloud 9 and GitHub
-* 30 min: Get to know the terminal and basic commands
+* 45 min: Get to know the terminal and basic commands
+* 10 min: Break
 * 45 min: HTML
-* 45 min: CSS
+(This is a suggested timing, you have to follow it rigorously. You might finish a little early, you can take this extra time to answer questions or do more exercises)
+
 
 ## Other notes:
 
@@ -44,4 +46,4 @@ Make sure that you are familiar with Cloud 9. Sometimes this tool can be a littl
 
 Make students write their first lines of code as soon as possible. Normally with Cloud 9 and Github, it should be enough to show them how to write headings, paragraphs etc. on a webpage.
 
-This might seem trivial but show real websites that use what you are teaching them. It should be very easy with HTML and CSS. Students need to connect the dots with their work and understand how their engineering teams work.
+This might seem trivial but show real websites that use what you are teaching them. It should be very easy with HTML. Students need to connect the dots with their work and understand how their engineering teams work.
