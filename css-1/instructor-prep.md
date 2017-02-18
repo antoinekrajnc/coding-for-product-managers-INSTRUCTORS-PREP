@@ -30,14 +30,8 @@ CSS part I is an intro to CSS. The goal is give student a first approach of CSS 
 
 ## Job Prep
 
-After, the icebreaker, show them the website they are going to build by the end of the course
+Prepare the [Flexbox Froggy](http://flexboxfroggy.com/)). Your students will do the first levels with you in class. To feel obliged to complete all the 16 first levels. If you class takes too much time, move on and tell them they can finish at home. Answer questions at the end of class if they have.
 
-* [The project](http://p-school-blog.herokuapp.com)
+If your class is going fast, you might do also the [Flexbox Tower Defence](http://flexboxdefense.com/). Make sure you know how to do it if you need to. 
 
-Students might not see how complicated it can be to code such a website, so feel free to tell them that thanks to this project, they will have a better understanding of front-end and back-end development.
-
-Make sure that you are familiar with Cloud 9. Sometimes this tool can be a little tricky or doesn't have the latest features of all programming languages. Students can also accidentally mess things up in their workspace and ask for your help, you need to be able to solve that quickly.
-
-Make students write their first lines of code as soon as possible. Normally with Cloud 9 and Github, it should be enough to show them how to write headings, paragraphs etc. on a webpage.
-
-This might seem trivial but show real websites that use what you are teaching them. It should be very easy with HTML. Students need to connect the dots with their work and understand how their engineering teams work.
+To help you during class you can ask your students to read lecture-notes before the class starts and especially this [flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). They won't all read the notes so don't assume that when you come into class. However, students that have more difficulties to follow will and it will help them.
