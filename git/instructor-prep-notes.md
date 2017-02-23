@@ -12,22 +12,19 @@ Student will learn basics of Git and Github in this class. The goal is to show t
 
 
 ## Rough Timing:
-* 30 min: Media Queries
-* 45 min: Flexbox
-* 15 min: cross browser compatibility
-* 60 min: Exercises
+* 20 min: Terminal commands reminders
+* 45 min: Git
+* 45 min: How to interact with remote repo using Github
+* 40 min: Exercises
 
 ## Other notes
 
-* Show them MDN again and don't hesitate to make them use this resource during the exercises. Students don't have this reflex to go look for themselves when they don't know something yet.
-* Take time on Flexbox. It is hard to understand that concept for students so you might need extra time depending on your class level.
-* This class, you should have time for exercises. Don't hesitate to make them work in pairs. The goal is that they understand and memorize by practicing.
+* It happens sometimes that student get stuck using a command because they arrived in the Vi world. Tell them that `:q`or `:wq`should help them get out of there.
+* Make sure to differenciate Git from Github in students' mind. Eventhough both are connected, it's not the same thing.
 
 
 ## Job Prep
 
-Make sure you master **Box-positioning** and **Computer gallery** exercises before class starts.
-
-Prepare the [Flexbox Froggy](http://flexboxfroggy.com/)). Your students will do the first levels with you in class. Don't complete all the 16 first levels if you see it's taking too much time. If you class takes too much time, move on and tell them they can finish at home. Answer questions at the end of class if they have.
-
-To help you during class you can ask your students to read lecture-notes before the class starts and especially this [flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). They won't all read the notes so don't assume that when you come into class. However, students that have more difficulties to follow will.
+* It's complicated for students to understand the concept of Git and how it can be related to Github eventhough the commands are simple. Make sure to reframe and repeat how it works on a broader level.
+* A good way to make them understand git is to actually **draw branches on a whiteboard** it will greatly help you explaining branches but also commits, merge etc.
+* Each time you explain a new command, try to go back on your whiteboard to explain it. It will give enough time to student to try that command and understand it.
